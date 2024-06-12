@@ -85,7 +85,7 @@
     <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=NGINX&logoColor=black"/>
 </div>
 <br>
-<img src="https://github.com/plan-with-me/pwm-fe/blob/main/photo/1.jpg?raw=true"/>
+<img src="photo/1.JPG"/>
 
 </br>
 
@@ -96,7 +96,8 @@ CI/CD  : Jenkins 2.440.2
 </br>
 
 # ERD 구성 
-<img src="https://github.com/plan-with-me/pwm-fe/blob/main/photo/ERD.JPG?raw=true"/>
+<img src="photo/ERD.JPG"/>
+
 
 </br>
 
