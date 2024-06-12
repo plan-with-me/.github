@@ -102,3 +102,60 @@ CI/CD  : Jenkins 2.440.2
 </br>
 
 # 기능 소개
+## 로그인 화면
+- 카카오, 구글 로그인 연동 구현
+<div style="text-align: center;">
+    <img src="../photo/screenshot/login.png" width="300" alt="login"/>
+</div>
+</br>
+
+## 개인 To-do list
+ - 상위 목표 생성
+ - 하위 목표 생성
+
+</br>
+
+## 지인의 To-do list
+
+</br>
+
+## 그룹의 To-do list
+
+</br>
+
+## 모두의 To-do list
+- 24년 하반기 오픈 예정
+
+</br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
