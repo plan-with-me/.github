@@ -112,17 +112,54 @@ CI/CD  : Jenkins 2.440.2
 </br>
 
 ## 개인 To-do list
- - 상위 목표 생성
- - 하위 목표 생성
+ - ### 홈 화면
+
+<div style="display: flex; gap: 10px;">
+    <img src="../photo/screenshot/mobile/home.png" height="500"/>
+    <img src="../photo/screenshot/pc/home.png" width="600"/>
+</div>
+</br>
+
+ - ### 상위 목표 생성
+    - 고정할 상위 목표 설정
+    - 상위 목표는 날짜와 상관없이 노출
+    - 공개 범위 설정 (나만 보기, 팔로워 공개, 전체공개)
+    - 색상 지정 가능
+
+<img src="../photo/screenshot/pc/tgoal.png">
+
+</br>
+
+ - ### 하위 목표 생성
+    - 생성한 상위목표를 클릭하면 하위 목표 생성 가능
+    - 하위 목표는 생성한 날짜에만 노출
+
+<img src="../photo/screenshot/pc/sgoal.png">
 
 </br>
 
 ## 지인의 To-do list
+ - ### 팔로잉 유저의 홈 화면 탐색
+    <div style="display: flex; gap: 10px;">
+        <img src="../photo/screenshot/mobile/search.png" height="500"/>
+        <img src="../photo/screenshot/pc/follow.png" width="600"/>
+    </div>
 
 </br>
 
 ## 그룹의 To-do list
+ - ### 그룹 To-do list 생성 및 초대
+    <div style="display: flex; gap: 10px;">
+        <img src="../photo/screenshot/mobile/group1.png" height="500"/>
+        <img src="../photo/screenshot/mobile/group2.png" height="500"/>
+        <img src="../photo/screenshot/mobile/search.png" height="500"/>
+    </div>
 
+ - ### 그룹 인원 관리 및 그룹 홈 화면
+    <div style="display: flex; gap: 10px;">
+        <img src="../photo/screenshot/mobile/member.png" height="500"/>
+        <img src="../photo/screenshot/pc/grouphome.png" width="600"/>
+    </div>
 </br>
 
 ## 모두의 To-do list
