@@ -115,8 +115,8 @@ CI/CD  : Jenkins 2.440.2
  - ### 홈 화면
 
 <div style="display: flex; gap: 10px;">
-    <img src="../photo/screenshot/mobile/home.png" height="500"/>
-    <img src="../photo/screenshot/pc/home.png" width="600"/>
+    <img src="../photo/screenshot/mobile/home.png" height="400"/>
+    <img src="../photo/screenshot/pc/home.png" width="500"/>
 </div>
 </br>
 
@@ -142,7 +142,7 @@ CI/CD  : Jenkins 2.440.2
  - ### 팔로잉 유저의 홈 화면 탐색
     <div style="display: flex; gap: 10px;">
         <img src="../photo/screenshot/mobile/search.png" height="500"/>
-        <img src="../photo/screenshot/pc/follow.png" width="600"/>
+        <img src="../photo/screenshot/pc/follow.png" width="300"/>
     </div>
 
 </br>
