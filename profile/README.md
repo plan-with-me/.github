@@ -116,7 +116,7 @@ CI/CD  : Jenkins 2.440.2
 
 <div style="display: flex; gap: 10px;">
     <img src="../photo/screenshot/mobile/home.png" height="470"/>
-    <img src="../photo/screenshot/pc/home.png" width="580"/>
+    <img src="../photo/screenshot/pc/home.png" width="590"/>
 </div>
 </br>
 
