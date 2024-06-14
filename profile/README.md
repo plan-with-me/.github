@@ -115,8 +115,8 @@ CI/CD  : Jenkins 2.440.2
  - ### 홈 화면
 
 <div style="display: flex; gap: 10px;">
-    <img src="../photo/screenshot/mobile/home.png" height="400"/>
-    <img src="../photo/screenshot/pc/home.png" width="500"/>
+    <img src="../photo/screenshot/mobile/home.png" height="450"/>
+    <img src="../photo/screenshot/pc/home.png" width="550"/>
 </div>
 </br>
 
