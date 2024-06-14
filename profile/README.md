@@ -141,8 +141,8 @@ CI/CD  : Jenkins 2.440.2
 ## 지인의 To-do list
  - ### 팔로잉 유저의 홈 화면 탐색
     <div style="display: flex; gap: 10px;">
-        <img src="../photo/screenshot/mobile/search.png" height="500"/>
-        <img src="../photo/screenshot/pc/follow.png" width="300"/>
+        <img src="../photo/screenshot/mobile/search.png" height="475"/>
+        <img src="../photo/screenshot/pc/follow.png" width="590"/>
     </div>
 
 </br>
@@ -157,8 +157,8 @@ CI/CD  : Jenkins 2.440.2
 
  - ### 그룹 인원 관리 및 그룹 홈 화면
     <div style="display: flex; gap: 10px;">
-        <img src="../photo/screenshot/mobile/member.png" height="500"/>
-        <img src="../photo/screenshot/pc/grouphome.png" width="600"/>
+        <img src="../photo/screenshot/mobile/member.png" height="475"/>
+        <img src="../photo/screenshot/pc/grouphome.png" width="590"/>
     </div>
 </br>
 
