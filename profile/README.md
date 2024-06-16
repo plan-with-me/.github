@@ -1,8 +1,7 @@
 # 공유 Todo LIST 'Plan With ME'
+- ### 서비스 URL : [pwm.ssc.co.kr](https://pwm.ssc.co.kr)
 
 <img src="../photo/front.jpg"/>
-
-- 서비스 URL : [pwm.ssc.co.kr](https://pwm.ssc.co.kr)
 
 </br>
 
@@ -102,6 +101,12 @@ CI/CD  : Jenkins 2.440.2
 
 
 </br>
+
+# 시연 동영상
+- ### Youtube Link
+[![Video Label](../photo/front.jpg)](https://www.youtube.com/watch?v=bzp8BReGXdU)
+
+<br/>
 
 # 기능 소개
 ## 로그인 화면
