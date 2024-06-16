@@ -47,7 +47,7 @@
         <a href=https://github.com/hyeonhe>
             <img src=https://avatars.githubusercontent.com/u/63030323?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=hyeonhe/>
             <br />
-            <sub style="font-size:14px"><b>Hyeonhe Kim</b></sub><br>
+            <sub style="font-size:14px"><b>Hyunhee Kim</b></sub><br>
             <sub style="font-size:12px"><b>Front-End</b></sub>
         </a>
     </td>
