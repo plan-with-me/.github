@@ -82,7 +82,8 @@
 </br>
 
 # 프로젝트 PPT
-
+[계획서 PPT](https://github.com/plan-with-me/.github/blob/main/ppt/%EA%B3%84%ED%9A%8D%EC%84%9C.pptx)
+[1학기 발표 PPT](https://github.com/plan-with-me/.github/blob/main/ppt/1%ED%95%99%EA%B8%B0%EB%B0%9C%ED%91%9C.pptx)
 [최종 발표 ppt](https://github.com/plan-with-me/.github/blob/main/photo/%EC%B5%9C%EC%A2%85_Plan%20With%20Me.pptx)
 
 # 서비스 구성도
@@ -118,8 +119,7 @@ CI/CD  : Jenkins 2.440.2
 
 # 시연 동영상
 
-- ### Youtube Link
-  [![Video Label](../photo/front.jpg)](https://www.youtube.com/watch?v=reBLQGE7SNM)
+- ### [Youtube Link](https://www.youtube.com/watch?v=reBLQGE7SNM)
 
 <br/>
 
