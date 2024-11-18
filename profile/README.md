@@ -81,7 +81,7 @@
 
 </br>
 
-### 프로젝트 최종 발표 PPT
+# 프로젝트 PPT
 
 [최종 발표 ppt](https://github.com/plan-with-me/.github/blob/main/photo/%EC%B5%9C%EC%A2%85_Plan%20With%20Me.pptx)
 
@@ -119,7 +119,7 @@ CI/CD  : Jenkins 2.440.2
 # 시연 동영상
 
 - ### Youtube Link
-  [![Video Label](../photo/front.jpg)](https://www.youtube.com/watch?v=bzp8BReGXdU)
+  [![Video Label](../photo/front.jpg)](https://www.youtube.com/watch?v=reBLQGE7SNM)
 
 <br/>
 
