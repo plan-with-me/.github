@@ -1,4 +1,5 @@
 # 공유 Todo LIST 'Plan With ME'
+
 - ### 서비스 URL : [pwm.ssc.co.kr](https://pwm.ssc.co.kr)
 
 <img src="../photo/front.jpg"/>
@@ -6,32 +7,36 @@
 </br>
 
 # 프로젝트 소개
-```js
+
+```
 - 개인을 넘어선, 친구, 가족 등 원하는 사람과 함께 쓰는 달력형 To do list
 - 팔로우 유저간 자신의 Todo list 공유
 - 여러명과 함께 쓰는 Todo list
-
-[구현 예정]
-- 공통의 목표를 가진 사람과 할 일을 라운지에 공유 하여 가이드 라인과 동기 부여 제공
 ```
+
+<img src="../photo/ppt/ppt (2).jpg">
+<img src="../photo/ppt/ppt (3).jpg">
+<img src="../photo/ppt/ppt (4).jpg">
 
 </br>
 
 # Source Repository
+
 ### [PWM-FRONT (pwm-fe)](https://github.com/plan-with-me/pwm-fe)<br>
+
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black)
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white"/>
 
 ### [PWM-BACK (api server)](https://github.com/plan-with-me/api-server)<br>
+
 ![PostgrSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=black"/>
 
-
-
 </br>
 
 # 팀원 구성
+
 <table>
 <tr>
     <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
@@ -78,7 +83,16 @@
 </table>
 </br>
 
+### 프로젝트 최종 발표 PPT
+
+[최종 발표 ppt](https://github.com/plan-with-me/.github/blob/main/photo/%EC%B5%9C%EC%A2%85_Plan%20With%20Me.pptx)
+
+# 서비스 구성도
+
+<img src="../photo/ppt/ppt (6).jpg">
+
 # Infra 구성
+
 <div style="display: flex; gap: 10px;">
     <img src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=Proxmox&logoColor=black"/>
     <img src="https://img.shields.io/badge/Rocky Linux-10B981?style=for-the-badge&logo=RockyLinux&logoColor=black"/>
@@ -88,28 +102,33 @@
 <br>
 <img src="../photo/1.JPG"/>
 
+<img src="../photo/ppt/ppt (5).jpg">
 </br>
 
 ```js
 Server : Rocky OS 8.6
 CI/CD  : Jenkins 2.440.2
 ```
+
 </br>
 
-# ERD 구성 
-<img src="../photo/ERD.JPG"/>
+# ERD 구성
 
+<img src="../photo/ERD.JPG"/>
 
 </br>
 
 # 시연 동영상
+
 - ### Youtube Link
-[![Video Label](../photo/front.jpg)](https://www.youtube.com/watch?v=bzp8BReGXdU)
+  [![Video Label](../photo/front.jpg)](https://www.youtube.com/watch?v=bzp8BReGXdU)
 
 <br/>
 
 # 기능 소개
+
 ## 로그인 화면
+
 - 카카오, 구글 로그인 연동 구현
 <div style="text-align: center;">
     <img src="../photo/screenshot/login.png" width="300" alt="login"/>
@@ -117,7 +136,8 @@ CI/CD  : Jenkins 2.440.2
 </br>
 
 ## 개인 To-do list
- - ### 홈 화면
+
+- ### 홈 화면
 
 <div style="display: flex; gap: 10px;">
     <img src="../photo/screenshot/mobile/home.png" height="475"/>
@@ -125,26 +145,27 @@ CI/CD  : Jenkins 2.440.2
 </div>
 </br>
 
- - ### 상위 목표 생성
-    - 고정할 상위 목표 설정
-    - 상위 목표는 날짜와 상관없이 노출
-    - 공개 범위 설정 (나만 보기, 팔로워 공개, 전체공개)
-    - 색상 지정 가능
+- ### 상위 목표 생성
+  - 고정할 상위 목표 설정
+  - 상위 목표는 날짜와 상관없이 노출
+  - 공개 범위 설정 (나만 보기, 팔로워 공개, 전체공개)
+  - 색상 지정 가능
 
 <img src="../photo/screenshot/pc/tgoal.png">
 
 </br>
 
- - ### 하위 목표 생성
-    - 생성한 상위목표를 클릭하면 하위 목표 생성 가능
-    - 하위 목표는 생성한 날짜에만 노출
+- ### 하위 목표 생성
+  - 생성한 상위목표를 클릭하면 하위 목표 생성 가능
+  - 하위 목표는 생성한 날짜에만 노출
 
 <img src="../photo/screenshot/pc/sgoal.png">
 
 </br>
 
 ## 지인의 To-do list
- - ### 팔로잉 유저의 홈 화면 탐색
+
+- ### 팔로잉 유저의 홈 화면 탐색
 
 <div style="display: flex; gap: 10px;">
         <img src="../photo/screenshot/mobile/search.png" height="475"/>
@@ -154,14 +175,16 @@ CI/CD  : Jenkins 2.440.2
 </br>
 
 ## 그룹의 To-do list
- - ### 그룹 To-do list 생성 및 초대
-    <div style="display: flex; gap: 10px;">
-        <img src="../photo/screenshot/mobile/group1.png" height="500"/>
-        <img src="../photo/screenshot/mobile/group2.png" height="500"/>
-        <img src="../photo/screenshot/mobile/search.png" height="500"/>
-    </div>
 
- - ### 그룹 인원 관리 및 그룹 홈 화면
+- ### 그룹 To-do list 생성 및 초대
+
+   <div style="display: flex; gap: 10px;">
+       <img src="../photo/screenshot/mobile/group1.png" height="500"/>
+       <img src="../photo/screenshot/mobile/group2.png" height="500"/>
+       <img src="../photo/screenshot/mobile/search.png" height="500"/>
+   </div>
+
+- ### 그룹 인원 관리 및 그룹 홈 화면
 
 <div style="display: flex; gap: 10px;">
         <img src="../photo/screenshot/mobile/member.png" height="475"/>
@@ -171,6 +194,7 @@ CI/CD  : Jenkins 2.440.2
 </br>
 
 ## 모두의 To-do list
+
 - 24년 하반기 오픈 예정
 
 </br>
