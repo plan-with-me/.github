@@ -14,24 +14,7 @@
 - 여러명과 함께 쓰는 Todo list
 ```
 
-<img src="../photo/ppt/ppt (2).jpg">
-<img src="../photo/ppt/ppt (3).jpg">
 <img src="../photo/ppt/ppt (4).jpg">
-
-</br>
-
-# Source Repository
-
-### [PWM-FRONT (pwm-fe)](https://github.com/plan-with-me/pwm-fe)<br>
-
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black)
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white"/>
-
-### [PWM-BACK (api server)](https://github.com/plan-with-me/api-server)<br>
-
-![PostgrSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=black"/>
 
 </br>
 
@@ -81,6 +64,21 @@
     </td>
 </tr>
 </table>
+</br>
+
+# Source Repository
+
+### [PWM-FRONT (pwm-fe)](https://github.com/plan-with-me/pwm-fe)<br>
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black)
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white"/>
+
+### [PWM-BACK (api server)](https://github.com/plan-with-me/api-server)<br>
+
+![PostgrSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=black"/>
+
 </br>
 
 ### 프로젝트 최종 발표 PPT
@@ -135,7 +133,7 @@ CI/CD  : Jenkins 2.440.2
 </div>
 </br>
 
-## 개인 To-do list
+## 개인 Todo list
 
 - ### 홈 화면
 
@@ -163,7 +161,12 @@ CI/CD  : Jenkins 2.440.2
 
 </br>
 
-## 지인의 To-do list
+- ### 일기 작성
+  - 일기 아이콘을 눌러 일기 페이지로 이동
+  - 해당 날짜의 일기를 작성할 수 있으며, 날씨와 공개 여부를 설정할 수 있음
+    <img src="../photo/screenshot/pc/diary.png">
+
+## 지인의 Todo list
 
 - ### 팔로잉 유저의 홈 화면 탐색
 
@@ -174,9 +177,9 @@ CI/CD  : Jenkins 2.440.2
 
 </br>
 
-## 그룹의 To-do list
+## 그룹 Todo list
 
-- ### 그룹 To-do list 생성 및 초대
+- ### 그룹 Todo list 생성 및 초대
 
    <div style="display: flex; gap: 10px;">
        <img src="../photo/screenshot/mobile/group1.png" height="500"/>
@@ -193,10 +196,6 @@ CI/CD  : Jenkins 2.440.2
 
 </br>
 
-## 모두의 To-do list
+## 라운지
 
-- 24년 하반기 오픈 예정
-
-</br>
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fplan-with-me&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+<img src="../photo/ppt/ppt (9).jpg">
